@@ -28,8 +28,9 @@ Open a terminal in the project folder and run:
 
 ```bash```
 
-javac ChatServer.java
-javac ChatClient.java
+javac ChatServer.java(In server bash) &
+
+javac ChatClient.java(In client bash)
 
 
 Step 2: Start the Server
