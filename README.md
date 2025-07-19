@@ -5,6 +5,7 @@ This is a simple multithreaded chat application built using Java Sockets. It all
 
 ---
 
+
 ## ✅ Features
 
 - Handles multiple clients using multithreading  
