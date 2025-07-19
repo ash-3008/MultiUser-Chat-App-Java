@@ -2,6 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.Scanner;
 
+
 public class ChatClient {
     private static final String SERVER_IP = "127.0.0.1"; // change if needed
     private static final int SERVER_PORT = 12345;
